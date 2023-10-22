@@ -212,7 +212,7 @@ body {
 #clone-info-humidity,
 #clone-info-wind {
     position: absolute;
-    transform: translate
+    transform: translateY(100%);
 }
 
 #clone-info-weather .weather {
